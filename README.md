@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @carljohannesmunoz
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning html and css
-- 💞️ I’m looking to collaborate on programming 
-- 📫 How to reach me?just message me on my Facebook:Carl Munoz
+-  I'm 16y/o by the way
 
 <!---
 carljohannesmunoz/carljohannesmunoz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
