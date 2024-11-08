@@ -1,19 +1,9 @@
-/************************************************************************************
- *  Created By: Tauseef Ahmad
- *  Created On: 11 March, 2022
- *  
- *  YouTube Video: https://youtu.be/DshR6Y9aTSs
- *  https://youtu.be/mpeNx7yEh6w
- *  *********************************************************************************/
 
 #include <SoftwareSerial.h>
 
 #include <AltSoftSerial.h>
 #include <TinyGPS++.h>
 
-//--------------------------------------------------------------
-//enter your personal phone number to receive sms alerts.
-//phone number must start with country code.
 const String PHONE = "+639636973459";
 //--------------------------------------------------------------
 //GSM Module RX pin to Arduino 3
