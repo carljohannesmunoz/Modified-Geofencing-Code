@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @carljohannesmunoz
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning html and css
--  I'm 16y/o by the way
+This is the modified code for our senior highschool research project, entitled "GPS based Geofencing Alert System through SMS Communication (G.G.A.S.S.C).
 
-<!---
-carljohannesmunoz/carljohannesmunoz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Clone  this repo if you want, it's not mine anyway i just added some few lines of code. 
