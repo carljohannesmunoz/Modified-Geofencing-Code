@@ -110,7 +110,7 @@ if(GET_GPS!=-1){
   GET_GPS=-1;
   }
 
- if(SET_UP!=-1){ //If "SET-UP" word is found within the SMS, it means that SET_UP have other value than -1 so we can proceed
+  if(SET_UP!=-1){ //If "SET-UP" word is found within the SMS, it means that SET_UP have other value than -1 so we can proceed
   initialLatitude = gps.location.lat();
   initialLongitude = gps.location.lng();
   sim800l.print("AT+CMGF=1\r");
@@ -121,6 +121,7 @@ if(GET_GPS!=-1){
   delay(100);
   sim800l.write(0x1A); //ascii code for ctrl-26 //sim800.println((char)26); //ascii code for ctrl-26
   delay(100);
+ 
   
 //  sendAlert();
   ReceiveMode(); //Come back to Receving SMS mode and wait for other SMS
